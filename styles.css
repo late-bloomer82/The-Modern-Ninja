@@ -32,6 +32,7 @@ font-family: sans-serif;
     display: flex;
     gap: 12px;
     
+    
 }
 
 .website-description{
@@ -79,7 +80,7 @@ button{
 a{
     font-size: 18px;
     color: #E5E7EB;
-    
+    text-decoration: none;
     
     
 }
