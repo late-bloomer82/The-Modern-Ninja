@@ -3,7 +3,7 @@
 Lessons learned from this project.
 
 
-1. My approach to this project was disorganized and not structurd well, although this is fine since this is my first second project. That said, I need to implement a structured and systematic approach for my next projects to be more efficient and have a better result.
+1. My approach to this project was disorganized and not structurd well, although this is fine since this is my second project. That said, I need to implement a structured and systematic approach for my next projects to be more efficient and have a better result.
 
 2. Lack of commits.
 
